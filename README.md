@@ -46,3 +46,8 @@ Where and how they are used is not yet specified.
 - nload
 - iftop
 - netstat & ss via net-tools & iproute2
+
+#### Devel/net tools and libraries
+- netcat
+- tcpdump
+- libpcap (libpcap-dev)
