@@ -31,5 +31,13 @@ Where and how they are used is not yet specified.
 
 #### Lossy compression/codec, audio. 
 - Opus
+- AAC
 - MP3
+
+#### Image formats <L = lossy | LL = lossless> <bit_depth>
+- TIFF L+LL/1|8|16|32
+- PNG LL/8
+- WebP L+LL/8
+- AVIF L+LL/8|10|12
+- JPEG L/8
 
