@@ -1,2 +1,35 @@
 # mossutils
 Utility collection for Moss Linux. 
+
+## Map
+
+### Original utils, before dependency consolidation and ln/arg linking. 
+
+Where and how they are used is not yet specified. 
+
+#### Lossless compression, general. 
+- LZ4
+- ZSTD
+- XZ
+
+#### Lossless compression, text and web.
+- Brotli
+
+#### // Audio/Video
+
+#### AV container formats
+- Ogg (A)
+- MP4 (V)
+- M4A (A)
+- MKV (V)
+- WebM (V)
+
+#### Lossless compression/codec, audio.
+- Free Lossless Audio Codec (FLAC)
+- Waveform Audio File Format (WAV)
+- Broadcast Wave Format (BWF)
+
+#### Lossy compression/codec, audio. 
+- Opus
+- MP3
+
