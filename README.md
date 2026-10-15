@@ -8,9 +8,9 @@ Utility collection for Moss Linux.
 Where and how they are used is not yet specified. 
 
 #### Lossless compression, general. 
-- LZ4
-- ZSTD
-- XZ
+- [LZ4](https://lz4.org/)
+- [ZSTD](https://facebook.github.io/zstd/)
+- [XZ](https://tukaani.org/xz/)
 
 #### Lossless compression, text and web.
 - Brotli
@@ -25,7 +25,7 @@ Where and how they are used is not yet specified.
 - WebM (V)
 
 #### Lossless compression/codec, audio.
-- Free Lossless Audio Codec (FLAC)
+- Free Lossless Audio Codec ([FLAC](https://xiph.org/flac/))
 - Waveform Audio File Format (WAV)
 - Broadcast Wave Format (BWF)
 
@@ -38,6 +38,6 @@ Where and how they are used is not yet specified.
 - TIFF L+LL/1|8|16|32
 - PNG LL/8
 - WebP L+LL/8
-- AVIF L+LL/8|10|12
+- [AVIF](https://aomediacodec.github.io/av1-avif/) L+LL/8|10|12
 - JPEG L/8
 
