@@ -42,3 +42,7 @@ Where and how they are used is not yet specified.
 - [AVIF](https://aomediacodec.github.io/av1-avif/) L+LL/8|10|12
 - JPEG L/8
 
+#### Network monitoring
+- nload
+- iftop
+- netstat & ss via net-tools & iproute2
