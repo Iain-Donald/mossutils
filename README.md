@@ -30,6 +30,7 @@ Where and how they are used is not yet specified.
 - Broadcast Wave Format (BWF)
 
 #### Lossy compression/codec, audio. 
+- [Codec 2](https://github.com/drowe67/codec2) (their site is currently down, link is to their github)
 - Opus
 - AAC
 - MP3
