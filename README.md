@@ -37,7 +37,7 @@ Where and how they are used is not yet specified.
 #### Image formats <L = lossy | LL = lossless> <bit_depth>
 - TIFF L+LL/1|8|16|32
 - PNG LL/8
-- WebP L+LL/8
+- [WebP](https://developers.google.com/speed/webp/docs/cwebp) L+LL/8
 - [AVIF](https://aomediacodec.github.io/av1-avif/) L+LL/8|10|12
 - JPEG L/8
 
